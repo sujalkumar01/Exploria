@@ -26,7 +26,5 @@ It has login, logout, API calling with caching, latency tracking, and a cache re
 4. Start the server:
 
 
-The server will run on port `3000`.
-
 
 
